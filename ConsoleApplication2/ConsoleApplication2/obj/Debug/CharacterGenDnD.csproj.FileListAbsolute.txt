@@ -1,0 +1,10 @@
+H:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+H:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+H:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+H:\ConsoleApplication2\ConsoleApplication2\obj\Debug\CharacterGenDnD.csprojResolveAssemblyReference.cache
+H:\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+H:\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Aaron Barker\Desktop\Flash Drive Temp\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Aaron Barker\Desktop\Flash Drive Temp\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Aaron Barker\Desktop\Flash Drive Temp\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Aaron Barker\Desktop\Flash Drive Temp\ConsoleApplication2\ConsoleApplication2\obj\Debug\CharacterGenDnD.csprojResolveAssemblyReference.cache
